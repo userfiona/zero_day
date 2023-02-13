@@ -1,1 +1,1 @@
-my first vagrant resipotory
+**This file is mandatory in projects**
