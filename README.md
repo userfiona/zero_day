@@ -1,1 +1,1 @@
-.ignore
+my first vagrant resipotory
